@@ -1,0 +1,3 @@
+agent,episodes,mean_reward,accuracy_pct,missed_defect_rate_pct,false_rejection_rate_pct,mean_inspections
+Random,1000,-24.873,50.57,50.21,48.71,3.095
+Heuristic,1000,16.011,73.07,0.87,51.02,1.781
